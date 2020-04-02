@@ -1,0 +1,1890 @@
+fileFormatVersion: 2
+guid: e63fd7b5810375048b28f42d279ab243
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f0000002000000021000000220000002300000024000000250000002600000027000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1c8c25da45dc51362ee1038d02f37c44
+  longitude: -95.3573
+  latitude: 29.756
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 88.08775, y: 24.441126, z: -548.7214}
+      lookAt: {x: -27.56313, y: 511.0068, z: 1659.3234}
+      up: {x: 0.011241289, y: 0.9766324, z: -0.21462238}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -1090.163, y: 0.82260394, z: 272.99994}
+        lookAt: {x: 1082.0402, y: 504.0652, z: 665.2535}
+        up: {x: -0.21874487, y: 0.97498226, z: -0.039500657}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+    - camera:
+        position: {x: -1022.46716, y: 66.487045, z: 14.061644}
+        lookAt: {x: 1009.55176, y: 433.8001, z: 942.26556}
+        up: {x: -0.1475752, y: 0.9867509, z: -0.06741073}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+    - camera:
+        position: {x: -840.8209, y: 25.553228, z: -242.55435}
+        lookAt: {x: 772.6697, y: 487.20465, z: 1277.0208}
+        up: {x: -0.14844291, y: 0.97898924, z: -0.13980258}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 3
+    - camera:
+        position: {x: -636.5177, y: 45.90303, z: -417.00092}
+        lookAt: {x: 560.5747, y: 466.07666, z: 1458.1008}
+        up: {x: -0.09986758, y: 0.9826271, z: -0.15643059}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 4
+    - camera:
+        position: {x: -371.90182, y: 98.28071, z: -548.61786}
+        lookAt: {x: 284.4897, y: 411.42416, z: 1595.3677}
+        up: {x: -0.04049092, y: 0.9903882, z: -0.13225636}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 5
+    - camera:
+        position: {x: -31.025705, y: 23.185726, z: -661.7584}
+        lookAt: {x: 73.14243, y: 407.39606, z: 1566.944}
+        up: {x: -0.007923306, y: 0.98549473, z: -0.16952102}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 6
+    - camera:
+        position: {x: 88.08775, y: 24.441126, z: -548.7214}
+        lookAt: {x: -27.56313, y: 511.0068, z: 1659.3234}
+        up: {x: 0.011241289, y: 0.9766324, z: -0.21462238}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 7
+    - camera:
+        position: {x: 26.005133, y: 26.270638, z: -150.2169}
+        lookAt: {x: 92.77564, y: 344.03177, z: 2090.3528}
+        up: {x: -0.004180832, y: 0.9901012, z: -0.14029315}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 8
+    - camera:
+        position: {x: 1.2917988, y: 14.198501, z: 15.6857195}
+        lookAt: {x: 66.889786, y: 310.95584, z: 2259.1685}
+        up: {x: -0.0038309994, y: 0.99137205, z: -0.13102202}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 9
+    - camera:
+        position: {x: 0.20381658, y: 11.459121, z: 271.68655}
+        lookAt: {x: 64.18302, y: 576.80975, z: 2463.003}
+        up: {x: -0.0072877756, y: 0.9683192, z: -0.24960959}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 10
+    - camera:
+        position: {x: -43.007233, y: 15.4879675, z: 324.91534}
+        lookAt: {x: 650.02844, y: 503.74347, z: 2424.1748}
+        up: {x: -0.067608535, y: 0.97646785, z: -0.20479158}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 11
+    - camera:
+        position: {x: -110.129005, y: 8.047746, z: 372.9117}
+        lookAt: {x: 1577.5782, y: 626.27686, z: 1749.5087}
+        up: {x: -0.2116076, y: 0.9619935, z: -0.17260008}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 12
+    - camera:
+        position: {x: -131.56557, y: 12.984209, z: 486.80652}
+        lookAt: {x: 2030.2396, y: 336.0246, z: -102.96066}
+        up: {x: -0.13765654, y: 0.98976785, z: 0.037554402}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 13
+    - camera:
+        position: {x: -38.97995, y: 13.789501, z: 589.3365}
+        lookAt: {x: 421.65915, y: 312.05203, z: -1607.1229}
+        up: {x: -0.027040716, y: 0.99128395, z: 0.12893789}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 14
+    - camera:
+        position: {x: -16.034576, y: 225.31561, z: 563.1974}
+        lookAt: {x: 106.33757, y: -1745.09, z: -545.00366}
+        up: {x: 0.09552482, y: 0.4924688, z: -0.86507195}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 15
+    - camera:
+        position: {x: -77.46082, y: 333.9794, z: 674.04736}
+        lookAt: {x: 44.911324, y: -1636.4261, z: -434.15372}
+        up: {x: 0.09552482, y: 0.4924688, z: -0.86507195}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 16
+    - camera:
+        position: {x: -63.31114, y: 163.28403, z: 879.1768}
+        lookAt: {x: 49.049007, y: 348.2629, z: -1374.4293}
+        up: {x: -0.0040686065, y: 0.99665654, z: 0.081604}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 17
+    - camera:
+        position: {x: -176.6747, y: 262.22012, z: 854.15295}
+        lookAt: {x: 540.5519, y: -80.72516, z: -1265.6482}
+        up: {x: 0.04854882, y: 0.9884604, z: -0.14348862}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 18
+    - camera:
+        position: {x: -339.1246, y: 258.69437, z: 755.8586}
+        lookAt: {x: 1216.5073, y: -66.052864, z: -856.63367}
+        up: {x: 0.0995918, y: 0.9896589, z: -0.103232004}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 19
+    - camera:
+        position: {x: -415.68182, y: 267.93405, z: 643.0293}
+        lookAt: {x: 1630.6185, y: -116.030685, z: -246.24454}
+        up: {x: 0.15554462, y: 0.9855134, z: -0.06759602}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 20
+    - camera:
+        position: {x: -457.38165, y: 185.49333, z: 488.49527}
+        lookAt: {x: 1804.353, y: 227.0084, z: 396.76303}
+        up: {x: -0.018322185, y: 0.9998319, z: 0.0007431175}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 21
+    - camera:
+        position: {x: -454.99445, y: 138.60277, z: 411.16458}
+        lookAt: {x: 1800.6855, y: 300.3144, z: 517.6531}
+        up: {x: -0.07134871, y: 0.99744576, z: -0.0033683046}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 22
+    - camera:
+        position: {x: -676.24274, y: 109.35836, z: 368.09814}
+        lookAt: {x: 1579.4371, y: 271.06998, z: 474.58658}
+        up: {x: -0.07134871, y: 0.99744576, z: -0.0033683046}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 23
+    - camera:
+        position: {x: -669.20526, y: 14.099625, z: 363.68552}
+        lookAt: {x: 1570.2142, y: 328.3716, z: 472.38806}
+        up: {x: -0.13865101, y: 0.9903184, z: -0.0067301914}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 24
+    - camera:
+        position: {x: -564.2919, y: 9.041846, z: 203.74457}
+        lookAt: {x: 1007.0876, y: 529.5174, z: 1748.2361}
+        up: {x: -0.1639567, y: 0.9732155, z: -0.16115125}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 25
+    - camera:
+        position: {x: -402.20197, y: 32.131172, z: 67.97859}
+        lookAt: {x: -241.49632, y: 221.86111, z: 2318.2583}
+        up: {x: -0.0059697223, y: 0.99648225, z: -0.08359101}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 26
+    - camera:
+        position: {x: -369.41147, y: 6.737336, z: 178.8401}
+        lookAt: {x: -473.29056, y: 863.632, z: 2271.81}
+        up: {x: 0.018762328, y: 0.9256049, z: -0.37802592}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 27
+    - camera:
+        position: {x: -440.28244, y: 14.839553, z: 244.05116}
+        lookAt: {x: -544.16156, y: 871.73425, z: 2337.021}
+        up: {x: 0.018762328, y: 0.9256049, z: -0.37802592}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 28
+    - camera:
+        position: {x: -524.95276, y: 7.155824, z: 365.6924}
+        lookAt: {x: -721.8439, y: 283.32584, z: 2604.1172}
+        up: {x: 0.010688455, y: 0.992532, z: -0.1215154}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 29
+    - camera:
+        position: {x: -621.57404, y: 14.204602, z: 408.93127}
+        lookAt: {x: 1123.0844, y: 158.09961, z: 1844.5648}
+        up: {x: -0.049078573, y: 0.99797815, z: -0.04038547}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 30
+    - camera:
+        position: {x: -555.3794, y: 12.436994, z: 504.35916}
+        lookAt: {x: 1671.672, y: 224.40578, z: 852.0572}
+        up: {x: -0.09250619, y: 0.9956074, z: -0.014442514}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 31
+    - camera:
+        position: {x: -524.72186, y: 6.5843616, z: 563.7232}
+        lookAt: {x: 1438.0952, y: 522.3928, z: -439.70743}
+        up: {x: -0.20286158, y: 0.9737002, z: 0.10370683}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 32
+    - camera:
+        position: {x: -467.2362, y: 10.870044, z: 602.9482}
+        lookAt: {x: 1303.3843, y: 180.8641, z: 2003.515}
+        up: {x: -0.058890298, y: 0.997177, z: -0.046582423}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 33
+    - camera:
+        position: {x: -411.5868, y: 14.606578, z: 646.5437}
+        lookAt: {x: 1192.8163, y: 184.57982, z: 2234.8076}
+        up: {x: -0.05335539, y: 0.9971777, z: -0.05281867}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 34
+    - camera:
+        position: {x: -363.6454, y: 13.221586, z: 695.98737}
+        lookAt: {x: 1244.8324, y: 284.9765, z: 2265.8699}
+        up: {x: -0.085901506, y: 0.9927698, z: -0.083840296}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 35
+    - camera:
+        position: {x: -302.84622, y: 14.28255, z: 712.4368}
+        lookAt: {x: 17.3034, y: 368.5349, z: 2925.4873}
+        up: {x: -0.022402957, y: 0.98768216, z: -0.15486157}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 36
+    - camera:
+        position: {x: -264.3856, y: 11.161242, z: 733.76825}
+        lookAt: {x: -1900.954, y: 370.70303, z: 2256.2517}
+        up: {x: 0.11627521, y: 0.98730916, z: -0.10816968}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 37
+    - camera:
+        position: {x: -250.0879, y: 12.26264, z: 783.9043}
+        lookAt: {x: -2455.8022, y: 421.2202, z: 478.68228}
+        up: {x: 0.17893197, y: 0.98354983, z: 0.024760218}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 38
+    - camera:
+        position: {x: -272.31827, y: 6.035261, z: 799.2167}
+        lookAt: {x: -1030.3131, y: 499.76855, z: -1276.1758}
+        up: {x: 0.07481637, y: 0.97593033, z: 0.20484747}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 39
+    - camera:
+        position: {x: -299.60422, y: 26.494928, z: 797.4502}
+        lookAt: {x: -438.97485, y: 192.9589, z: -1456.091}
+        up: {x: 0.004538637, y: 0.99729323, z: 0.07338709}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 40
+    - camera:
+        position: {x: -300.21872, y: 42.361843, z: 746.90204}
+        lookAt: {x: -340.548, y: -166.81587, z: -1507.0281}
+        up: {x: -0.0016529303, y: 0.99572253, z: -0.09237922}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 41
+    - camera:
+        position: {x: -355.75146, y: 32.647236, z: 729.0411}
+        lookAt: {x: 1727.7931, y: 231.89287, z: -133.93373}
+        up: {x: -0.081308655, y: 0.99611986, z: 0.0336769}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 42
+    - camera:
+        position: {x: -365.24966, y: 34.460583, z: 711.86224}
+        lookAt: {x: 1896.353, y: 137.53572, z: 701.3437}
+        up: {x: -0.045527905, y: 0.99896306, z: 0.00021174624}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 43
+    - camera:
+        position: {x: -331.17218, y: 29.662642, z: 752.6655}
+        lookAt: {x: 1927.487, y: 180.79716, z: 787.2878}
+        up: {x: -0.06674843, y: 0.99776936, z: -0.0010231644}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 44
+    - camera:
+        position: {x: -328.83173, y: 6.7012787, z: 731.1462}
+        lookAt: {x: 1767.7134, y: 599.009, z: 1346.9813}
+        up: {x: -0.25101778, y: 0.9651702, z: -0.073733486}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 45
+    - camera:
+        position: {x: -323.67572, y: 10.75049, z: 716.2359}
+        lookAt: {x: 1287.7185, y: 388.0802, z: 2261.1028}
+        up: {x: -0.120308645, y: 0.9860133, z: -0.11534164}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 46
+    - camera:
+        position: {x: -292.66718, y: 6.4007998, z: 745.40375}
+        lookAt: {x: 1320.0306, y: 180.73009, z: 2324.7698}
+        up: {x: -0.05501378, y: 0.997031, z: -0.05387674}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 47
+    - camera:
+        position: {x: -233.82947, y: 6.4007998, z: 804.3357}
+        lookAt: {x: 1353.6998, y: 180.72853, z: 2408.9985}
+        up: {x: -0.054154724, y: 0.99703103, z: -0.054739196}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 48
+    - camera:
+        position: {x: -202.06158, y: 6.4007998, z: 836.4464}
+        lookAt: {x: 1385.4678, y: 180.72853, z: 2441.1091}
+        up: {x: -0.054154724, y: 0.99703103, z: -0.054739196}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 49
+    - camera:
+        position: {x: -169.13289, y: 6.4007998, z: 870.46326}
+        lookAt: {x: 1378.205, y: 180.72597, z: 2513.9165}
+        up: {x: -0.052782908, y: 0.99703115, z: -0.056061603}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 50
+    - camera:
+        position: {x: -145.83098, y: 6.5532, z: 901.43823}
+        lookAt: {x: 1020.49976, y: 180.82248, z: 2834.0234}
+        up: {x: -0.039773136, y: 0.99703306, z: -0.06590324}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 51
+    - camera:
+        position: {x: -133.55313, y: 6.5532, z: 924.0777}
+        lookAt: {x: 779.3403, y: 276.58557, z: 2978.1687}
+        up: {x: -0.04843999, y: 0.99286145, z: -0.10899428}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 52
+    - camera:
+        position: {x: -125.97155, y: 6.5532, z: 941.67847}
+        lookAt: {x: 707.08484, y: 276.57666, z: 3029.4253}
+        up: {x: -0.044202194, y: 0.9928619, z: -0.1107764}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 53
+    - camera:
+        position: {x: -109.2663, y: 6.5532, z: 983.54395}
+        lookAt: {x: 763.7853, y: 362.89752, z: 3041.7913}
+        up: {x: -0.061463024, y: 0.9875353, z: -0.14490107}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 54
+    - camera:
+        position: {x: -87.72921, y: 6.5532, z: 1009.4482}
+        lookAt: {x: 711.4535, y: 419.46344, z: 3087.0415}
+        up: {x: -0.06547937, y: 0.9832276, z: -0.17022328}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 55
+    - camera:
+        position: {x: -66.43928, y: 6.5532, z: 1035.3278}
+        lookAt: {x: 461.92215, y: 535.79297, z: 3172.2231}
+        up: {x: -0.05611038, y: 0.97229296, z: -0.2269318}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 56
+    - camera:
+        position: {x: -0.30000055, y: 6.5532, z: 1032.2512}
+        lookAt: {x: 3.9663496, y: 548.7594, z: 3230.336}
+        up: {x: -0.0004648407, y: 0.9708981, z: -0.23949258}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 57
+    - camera:
+        position: {x: 0.34327316, y: 6.5532, z: 1072.9028}
+        lookAt: {x: -1.5558845, y: 641.6899, z: 3245.9607}
+        up: {x: 0.00024518004, y: 0.9598422, z: -0.2805404}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 58
+    - camera:
+        position: {x: 0.895983, y: 6.5532, z: 1133.6156}
+        lookAt: {x: -5.892625, y: 303.402, z: 3378.0344}
+        up: {x: 0.00039658698, y: 0.99136674, z: -0.1311178}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 59
+    - camera:
+        position: {x: 0.76530355, y: 6.5532, z: 1176.8202}
+        lookAt: {x: -2.9829395, y: 407.43723, z: 3405.0168}
+        up: {x: 0.00029786592, y: 0.98419815, z: -0.17707065}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 60
+    - camera:
+        position: {x: 0.7376072, y: 6.5532, z: 1193.2847}
+        lookAt: {x: -17.864443, y: 498.8574, z: 3403.007}
+        up: {x: 0.0018304996, y: 0.97607124, z: -0.21744356}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 61
+    - camera:
+        position: {x: 0.6069608, y: 6.5532, z: 1208.8041}
+        lookAt: {x: -24.877895, y: 300.38666, z: 3453.4856}
+        up: {x: 0.0014734284, y: 0.991542, z: -0.12977816}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 62
+    - camera:
+        position: {x: 10.609436, y: 6.0295377, z: 1211.69}
+        lookAt: {x: -1694.5802, y: 359.03537, z: 2658.5132}
+        up: {x: 0.118892886, y: 0.9877692, z: -0.1008785}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 63
+    - camera:
+        position: {x: 14.075253, y: 5.0594134, z: 1219.8435}
+        lookAt: {x: -2185.0496, y: 516.9569, z: 1054.3344}
+        up: {x: 0.225468, y: 0.9741028, z: 0.016969033}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 64
+    - camera:
+        position: {x: 13.201139, y: 5.510657, z: 1229.2936}
+        lookAt: {x: -1800.0375, y: 627.75024, z: 24.899004}
+        up: {x: 0.22894178, y: 0.9614889, z: 0.15206838}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 65
+    - camera:
+        position: {x: 8.113118, y: 6.5532, z: 1225.4243}
+        lookAt: {x: -1678.0537, y: 716.32104, z: -108.237335}
+        up: {x: 0.24588901, y: 0.9495865, z: 0.19448417}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 66
+    - camera:
+        position: {x: 0.5196276, y: 6.5532, z: 1227.68}
+        lookAt: {x: -1069.6238, y: 523.1246, z: -699.37195}
+        up: {x: 0.11077431, y: 0.9736213, z: 0.19947593}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 67
+    - camera:
+        position: {x: 0.5196276, y: 6.5532, z: 1227.68}
+        lookAt: {x: 48.262745, y: 561.8736, z: -966.613}
+        up: {x: -0.005335626, y: 0.9694509, z: 0.24522755}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 68
+    - camera:
+        position: {x: 0.14045773, y: 6.5532, z: 1215.5281}
+        lookAt: {x: -0.46545464, y: 107.39452, z: -1046.1998}
+        up: {x: 0.000011932635, y: 0.9990075, z: 0.044541713}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 69
+    - camera:
+        position: {x: 0.13088103, y: 6.5532, z: 1179.7805}
+        lookAt: {x: -0.4757192, y: 110.39793, z: -1081.8115}
+        up: {x: 0.000012302719, y: 0.9989475, z: 0.04586832}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 70
+    - camera:
+        position: {x: 0.12359866, y: 6.5532, z: 1152.6295}
+        lookAt: {x: -0.48300162, y: 110.39793, z: -1108.9625}
+        up: {x: 0.000012302719, y: 0.9989475, z: 0.04586832}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 71
+    - camera:
+        position: {x: 0.11530451, y: 6.5532, z: 1121.7064}
+        lookAt: {x: -0.49129573, y: 110.39793, z: -1139.8856}
+        up: {x: 0.000012302719, y: 0.9989475, z: 0.04586832}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 72
+    - camera:
+        position: {x: 0.10790951, y: 6.5532, z: 1094.1356}
+        lookAt: {x: -0.4979067, y: 161.46057, z: -1164.5334}
+        up: {x: 0.00001835223, y: 0.99765646, z: 0.06842275}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 73
+    - camera:
+        position: {x: 0.103457905, y: 6.5532, z: 1077.5386}
+        lookAt: {x: -0.49939242, y: 278.26315, z: -1170.0724}
+        up: {x: 0.0000321901, y: 0.99277216, z: 0.12001456}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 74
+    - camera:
+        position: {x: -12.303292, y: 8.688502, z: 1072.6561}
+        lookAt: {x: 1555.8059, y: 9.934348, z: -560.32104}
+        up: {x: -0.00038115156, y: 0.9999999, z: 0.00039691865}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 75
+    - camera:
+        position: {x: 15.984651, y: 6.9876595, z: 1058.782}
+        lookAt: {x: 1510.6589, y: 465.3621, z: -578.72363}
+        up: {x: -0.1364937, y: 0.97928965, z: 0.14953706}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 76
+    - camera:
+        position: {x: 58.660957, y: 6.5532, z: 1035.3491}
+        lookAt: {x: 1721.9291, y: 99.542534, z: -497.77664}
+        up: {x: -0.030200828, y: 0.9991562, z: 0.027837766}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 77
+    - camera:
+        position: {x: 89.576996, y: 6.5532, z: 1005.661}
+        lookAt: {x: 1705.7131, y: 99.54028, z: -577.0707}
+        up: {x: -0.029344317, y: 0.9991562, z: 0.028737787}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 78
+    - camera:
+        position: {x: 121.60645, y: 6.5532, z: 972.1213}
+        lookAt: {x: 1624.4305, y: 99.53443, z: -718.57587}
+        up: {x: -0.027285177, y: 0.9991563, z: 0.03069619}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 79
+    - camera:
+        position: {x: 198.8821, y: 6.5532, z: 893.0007}
+        lookAt: {x: 1360.8812, y: 521.97687, z: -980.4129}
+        up: {x: -0.12000074, y: 0.97374, z: 0.19346918}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 80
+    - camera:
+        position: {x: 248.1876, y: 6.5532, z: 845.07874}
+        lookAt: {x: 631.99084, y: 498.95468, z: -1331.1149}
+        up: {x: -0.037775267, y: 0.97606164, z: 0.21418864}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 81
+    - camera:
+        position: {x: 292.40598, y: 36.65679, z: 797.8469}
+        lookAt: {x: 357.60452, y: 12.401507, z: -1465.059}
+        up: {x: 0.00030855028, y: 0.9999426, z: -0.0107091395}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 82
+    - camera:
+        position: {x: 342.9597, y: 23.81949, z: 774.49884}
+        lookAt: {x: -1044.6588, y: 364.7637, z: -981.5918}
+        up: {x: 0.0933666, y: 0.9885955, z: 0.118159436}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 83
+    - camera:
+        position: {x: 348.32492, y: 14.764335, z: 757.8784}
+        lookAt: {x: -1835.5381, y: 354.71848, z: 267.21}
+        up: {x: 0.14650576, y: 0.988662, z: 0.032916788}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 84
+    - camera:
+        position: {x: 361.7142, y: 7.3385673, z: 752.922}
+        lookAt: {x: -1862.5135, y: 427.4084, z: 796.9073}
+        up: {x: 0.18550898, y: 0.98263574, z: -0.0036685413}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 85
+    - camera:
+        position: {x: 328.59116, y: 28.566126, z: 747.4392}
+        lookAt: {x: -1926.8087, y: 203.91515, z: 836.92255}
+        up: {x: 0.07739095, y: 0.9969961, z: -0.0030704997}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 86
+    - camera:
+        position: {x: 317.27274, y: 21.77707, z: 714.93713}
+        lookAt: {x: -1253.6206, y: 360.46622, z: 2309.668}
+        up: {x: 0.10498317, y: 0.9887467, z: -0.106576234}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 87
+    - camera:
+        position: {x: 298.51166, y: 10.823259, z: 725.82513}
+        lookAt: {x: 180.11458, y: 532.1863, z: 2925.7673}
+        up: {x: 0.012375716, y: 0.97312284, z: -0.22995381}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 88
+    - camera:
+        position: {x: 277.53247, y: 35.133724, z: 735.7621}
+        lookAt: {x: 948.1932, y: 89.22121, z: 2897.4446}
+        up: {x: -0.007079139, y: 0.9997146, z: -0.022817574}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 89
+    - camera:
+        position: {x: 245.25195, y: 26.742588, z: 778.8401}
+        lookAt: {x: 2479.7131, y: 100.30862, z: 1135.7075}
+        up: {x: -0.032087527, y: 0.9994719, z: -0.0051247226}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 90
+    - camera:
+        position: {x: 263.8447, y: 19.45284, z: 786.16284}
+        lookAt: {x: 2473.7412, y: 302.72226, z: 384.04498}
+        up: {x: -0.12309906, y: 0.99214154, z: 0.02239939}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 91
+    - camera:
+        position: {x: 277.7683, y: 8.908373, z: 737.2197}
+        lookAt: {x: 2439.2046, y: 652.4861, z: 936.17413}
+        up: {x: -0.28307226, y: 0.9587446, z: -0.026056046}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 92
+    - camera:
+        position: {x: 290.2144, y: 6.4007998, z: 731.2998}
+        lookAt: {x: 2231.692, y: 123.68337, z: -427.35986}
+        up: {x: -0.04448424, y: 0.9986573, z: 0.02654787}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 93
+    - camera:
+        position: {x: 338.8269, y: 12.395323, z: 694.4963}
+        lookAt: {x: 1993.5436, y: 129.6389, z: -846.2015}
+        up: {x: -0.03790117, y: 0.9986582, z: 0.035289574}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 94
+    - camera:
+        position: {x: 391.42822, y: 30.869753, z: 707.6517}
+        lookAt: {x: 602.378, y: -65.4658, z: -1544.4146}
+        up: {x: 0.003968405, y: 0.9990943, z: -0.04236606}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 95
+    - camera:
+        position: {x: 453.42572, y: 21.038551, z: 617.49493}
+        lookAt: {x: 466.12994, y: 11.828715, z: -1646.4257}
+        up: {x: 0.00002282753, y: 0.9999917, z: -0.00406793}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 96
+    - camera:
+        position: {x: 506.2215, y: 28.239092, z: 603.0641}
+        lookAt: {x: -883.3658, y: -234.97733, z: -1164.8009}
+        up: {x: -0.07184736, y: 0.9932185, z: -0.09140586}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 97
+    - camera:
+        position: {x: 540.0907, y: 24.582348, z: 539.1305}
+        lookAt: {x: -1706.9104, y: -124.761536, z: 306.18237}
+        up: {x: -0.065613694, y: 0.9978219, z: -0.0068022166}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 98
+    - camera:
+        position: {x: 537.46655, y: 6.647097, z: 519.2062}
+        lookAt: {x: -1089.2461, y: 473.5149, z: 2023.0089}
+        up: {x: 0.15142506, y: 0.9785065, z: -0.13998383}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 99
+    - camera:
+        position: {x: 634.5326, y: 10.288353, z: 404.5205}
+        lookAt: {x: -966.21014, y: 295.41846, z: 1979.927}
+        up: {x: 0.08976215, y: 0.9920376, z: -0.088341415}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 100
+    - camera:
+        position: {x: 604.7762, y: 11.360253, z: 312.87616}
+        lookAt: {x: -33.972336, y: 487.38644, z: 2432.0698}
+        up: {x: 0.060678694, y: 0.9776453, z: -0.2013154}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 101
+    - camera:
+        position: {x: 625.54065, y: 19.44977, z: 94.143196}
+        lookAt: {x: -225.3797, y: 486.59445, z: 2139.4531}
+        up: {x: 0.07925832, y: 0.97848076, z: -0.19050881}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 102
+    - camera:
+        position: {x: 830.99524, y: 3.9920366, z: 77.26533}
+        lookAt: {x: -691.42786, y: 547.0227, z: 1662.4872}
+        up: {x: 0.16614339, y: 0.9708082, z: -0.17299667}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 103
+    - camera:
+        position: {x: 995.7634, y: 10.313942, z: 354.46762}
+        lookAt: {x: -1174.4183, y: 543.8795, z: 716.6854}
+        up: {x: 0.23246078, y: 0.9718316, z: -0.038799256}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 104
+    - camera:
+        position: {x: 1019.2519, y: 188.85774, z: 357.07422}
+        lookAt: {x: -1229.1927, y: 50.638798, z: 582.8495}
+        up: {x: -0.060745966, y: 0.9981347, z: 0.006099744}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 105
+    - camera:
+        position: {x: 538.8653, y: 14.45481, z: 98.837585}
+        lookAt: {x: -1614.4149, y: 266.71585, z: 751.0114}
+        up: {x: 0.10664005, y: 0.993773, z: -0.032298557}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 106
+    - camera:
+        position: {x: 285.31845, y: 12.809333, z: -247.77963}
+        lookAt: {x: -749.1769, y: 317.68503, z: 1742.8114}
+        up: {x: 0.062098633, y: 0.99089134, z: -0.1194911}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 107
+    - camera:
+        position: {x: 33.310833, y: 8.345868, z: -331.70206}
+        lookAt: {x: 30.136818, y: 483.32648, z: 1881.8846}
+        up: {x: 0.00030082668, y: 0.97774446, z: -0.2097992}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 108
+    - camera:
+        position: {x: 45.61186, y: 16.166542, z: -723.188}
+        lookAt: {x: -10.489124, y: 354.423, z: 1514.6721}
+        up: {x: 0.003744343, y: 0.9887756, z: -0.1493613}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 109
+    - camera:
+        position: {x: -161.27309, y: 244.40701, z: -726.7727}
+        lookAt: {x: 195.8269, y: -44.126595, z: 1490.1644}
+        up: {x: 0.020267444, y: 0.99184555, z: 0.12582372}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 110
+    - camera:
+        position: {x: -56.505463, y: 344.5369, z: -233.34593}
+        lookAt: {x: 136.11856, y: -151.23889, z: 1967.2642}
+        up: {x: 0.019095177, y: 0.97572833, z: 0.21815056}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 111
+    - camera:
+        position: {x: -26.940971, y: 280.90228, z: 26.853127}
+        lookAt: {x: 598.92145, y: -60.55466, z: 2175.6401}
+        up: {x: 0.042176273, y: 0.988561, z: 0.1448047}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 112
+    - camera:
+        position: {x: -6.429491, y: 154.14798, z: 286.92883}
+        lookAt: {x: 36.700954, y: 271.86105, z: 2547.4302}
+        up: {x: -0.0009918665, y: 0.9986474, z: -0.05198452}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 113
+    - camera:
+        position: {x: -153.07637, y: 8.573379, z: 400.73392}
+        lookAt: {x: 1738.8191, y: 517.2995, z: 1535.4197}
+        up: {x: -0.19270313, y: 0.9744269, z: -0.11557588}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 114
+    - camera:
+        position: {x: -33.868523, y: 15.49864, z: 294.93457}
+        lookAt: {x: 837.0101, y: 464.91217, z: 2335.812}
+        up: {x: -0.077909485, y: 0.9800996, z: -0.18257849}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 115
+    - camera:
+        position: {x: 72.54129, y: 6.314868, z: 302.23782}
+        lookAt: {x: -521.1739, y: 578.1334, z: 2410.8176}
+        up: {x: 0.06845533, y: 0.96757793, z: -0.24311912}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 116
+    - camera:
+        position: {x: 94.26823, y: 6.4368753, z: 306.9675}
+        lookAt: {x: -1481.0277, y: 531.09644, z: 1846.0444}
+        up: {x: 0.16576132, y: 0.9727772, z: -0.16195014}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 117
+    - camera:
+        position: {x: 64.4925, y: 8.635991, z: 364.21808}
+        lookAt: {x: -2093.0605, y: 432.52872, z: 903.5347}
+        up: {x: 0.18164493, y: 0.9823154, z: -0.045405205}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 118
+    - camera:
+        position: {x: 65.64717, y: 39.495724, z: 474.85583}
+        lookAt: {x: -2182.3232, y: 296.08966, z: 554.672}
+        up: {x: 0.11326642, y: 0.9935565, z: -0.004021625}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 119
+    - camera:
+        position: {x: -65.12656, y: 8.885777, z: 455.89377}
+        lookAt: {x: -2317.2646, y: 232.53653, z: 514.51776}
+        up: {x: 0.09875331, y: 0.99510866, z: -0.0025705849}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 120
+    - camera:
+        position: {x: -103.68282, y: 6.5532, z: 456.00598}
+        lookAt: {x: -2293.2466, y: 580.8409, z: 495.84134}
+        up: {x: 0.2536215, y: 0.96729255, z: -0.004614204}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 121
+    - camera:
+        position: {x: -141.10347, y: 6.5532, z: 455.7776}
+        lookAt: {x: -2377.7444, y: 357.0941, z: 443.88638}
+        up: {x: 0.15483208, y: 0.9879405, z: 0.0008231737}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 122
+    - camera:
+        position: {x: -175.67737, y: 6.5532, z: 455.59378}
+        lookAt: {x: -2412.318, y: 357.0941, z: 443.70258}
+        up: {x: 0.15483208, y: 0.9879405, z: 0.0008231737}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 123
+    - camera:
+        position: {x: -201.82796, y: 6.5532, z: 455.45474}
+        lookAt: {x: -2437.4514, y: 359.98285, z: 507.00864}
+        up: {x: 0.15606874, y: 0.9877397, z: -0.003598976}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 124
+    - camera:
+        position: {x: -206.14664, y: 5.9857216, z: 460.64258}
+        lookAt: {x: -2339.479, y: 382.89542, z: -196.93965}
+        up: {x: 0.15909484, y: 0.98604465, z: 0.049039684}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 125
+    - camera:
+        position: {x: -211.81046, y: 5.9257836, z: 480.1316}
+        lookAt: {x: -1927.643, y: 409.2326, z: -940.72906}
+        up: {x: 0.137205, y: 0.984005, z: 0.113617845}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 126
+    - camera:
+        position: {x: -227.79411, y: 14.422405, z: 508.44217}
+        lookAt: {x: -2003.4794, y: 226.91266, z: -879.8562}
+        up: {x: 0.07394063, y: 0.9955857, z: 0.057809602}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 127
+    - camera:
+        position: {x: -274.54837, y: 6.546142, z: 486.55634}
+        lookAt: {x: -1847.449, y: 453.55362, z: -1079.2504}
+        up: {x: 0.13992892, y: 0.98031425, z: 0.13929783}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 128
+    - camera:
+        position: {x: -252.9457, y: 7.597448, z: 445.01132}
+        lookAt: {x: -2458.3738, y: 479.98578, z: 641.2738}
+        up: {x: 0.20783307, y: 0.97798944, z: -0.0184952}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 129
+    - camera:
+        position: {x: -298.9653, y: 14.297023, z: 365.88724}
+        lookAt: {x: -488.0537, y: 326.76398, z: 2600.2087}
+        up: {x: 0.011638634, y: 0.9904299, z: -0.13752536}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 130
+    - camera:
+        position: {x: -298.9653, y: 14.297023, z: 365.88724}
+        lookAt: {x: -613.4757, y: 1424.708, z: 2108.7031}
+        up: {x: 0.11063657, y: 0.7822378, z: -0.6130771}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 131
+    - camera:
+        position: {x: -344.35535, y: 7.296199, z: 441.80994}
+        lookAt: {x: -917.9817, y: 332.933, z: 2607.5652}
+        up: {x: 0.03682637, y: 0.98960185, z: -0.13903983}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 132
+    - camera:
+        position: {x: -371.88605, y: 8.156137, z: 447.50394}
+        lookAt: {x: 1495.6338, y: 224.76726, z: 1708.8651}
+        up: {x: -0.079286575, y: 0.9954124, z: -0.053551782}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 133
+    - camera:
+        position: {x: -389.97775, y: 11.2543335, z: 443.7014}
+        lookAt: {x: 1820.8062, y: 269.27267, z: 857.7589}
+        up: {x: -0.11201921, y: 0.99348456, z: -0.02098007}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 134
+    - camera:
+        position: {x: -390.84128, y: 11.881162, z: 456.4893}
+        lookAt: {x: 1860.3259, y: 251.82988, z: 472.40146}
+        up: {x: -0.10598295, y: 0.9943677, z: -0.00074913003}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 135
+    - camera:
+        position: {x: -588.81586, y: 6.926271, z: 456.54694}
+        lookAt: {x: 1614.9668, y: 525.4912, z: 460.40125}
+        up: {x: -0.22905032, y: 0.9734145, z: -0.00040059775}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 136
+    - camera:
+        position: {x: -609.7565, y: 256.17194, z: 431.4633}
+        lookAt: {x: 1649.0079, y: 129.73242, z: 518.519}
+        up: {x: 0.055807035, y: 0.99843925, z: 0.0021508741}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 137
+    - camera:
+        position: {x: -0.00009888626, y: 3717.6848, z: 442.55292}
+        lookAt: {x: -0.00009888626, y: 172.5168, z: 442.55292}
+        up: {x: 0, y: 0, z: 1}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 138
+    - camera:
+        position: {x: 15.286614, y: 2553.9553, z: 773.57855}
+        lookAt: {x: 15.286614, y: -991.21277, z: 773.57855}
+        up: {x: 0, y: 0, z: 1}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 139
+    - camera:
+        position: {x: -0.0033419956, y: 6.5532, z: 656.79596}
+        lookAt: {x: 34.64362, y: 180.68895, z: 4197.515}
+        up: {x: -0.00048062234, y: 0.99879295, z: -0.04911683}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 140
+    - camera:
+        position: {x: 0.08662509, y: 6.5532, z: 665.99005}
+        lookAt: {x: 34.733585, y: 180.68895, z: 4206.7095}
+        up: {x: -0.00048062234, y: 0.99879295, z: -0.04911683}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 141
+    - camera:
+        position: {x: -37.203457, y: 6.9750285, z: 675.6789}
+        lookAt: {x: 2892.6975, y: 457.35483, z: 2620.1719}
+        up: {x: -0.105850145, y: 0.9918976, z: -0.070249766}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 142
+    - camera:
+        position: {x: -78.94321, y: 4.6968503, z: 722.78467}
+        lookAt: {x: 3264.046, y: 880.2678, z: 1513.9967}
+        up: {x: -0.24033621, y: 0.9690217, z: -0.056882303}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 143
+    - camera:
+        position: {x: -86.552605, y: 7.5875273, z: 773.52026}
+        lookAt: {x: 3256.1821, y: 900.1531, z: 0.43091947}
+        up: {x: -0.2452949, y: 0.9677872, z: 0.056730457}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 144
+    - camera:
+        position: {x: -81.78049, y: 7.0974326, z: 760.0146}
+        lookAt: {x: 2573.9849, y: 778.26385, z: 2978.2185}
+        up: {x: -0.16695143, y: 0.9760545, z: -0.13944465}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 145
+    - camera:
+        position: {x: -12.126195, y: 6.4644823, z: 705.4604}
+        lookAt: {x: 1515.9326, y: 786.31287, z: 3807.893}
+        up: {x: -0.097195655, y: 0.97550553, z: -0.1973373}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 146
+    - camera:
+        position: {x: -0.26847982, y: 8.034127, z: 700.2342}
+        lookAt: {x: 544.10364, y: 713.6191, z: 4131.564}
+        up: {x: -0.031185174, y: 0.979994, z: -0.19656889}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 147
+    - camera:
+        position: {x: 36.87063, y: 7.9342093, z: 684.31256}
+        lookAt: {x: -2134.9302, y: 539.7886, z: 3435.4265}
+        up: {x: 0.09295702, y: 0.9886826, z: -0.11775267}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 148
+    - camera:
+        position: {x: 53.3673, y: 7.1857457, z: 682.7552}
+        lookAt: {x: -2981.539, y: 409.2379, z: 2470.4668}
+        up: {x: 0.097715855, y: 0.99354845, z: -0.057559527}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 149
+    - camera:
+        position: {x: 62.35453, y: 6.3686385, z: 699.3346}
+        lookAt: {x: -2885.1208, y: 1771.2626, z: 1574.408}
+        up: {x: 0.47724217, y: 0.86727417, z: -0.14168799}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 150
+    - camera:
+        position: {x: 70.84861, y: 7.1517005, z: 686.3001}
+        lookAt: {x: -2455.0217, y: 443.3304, z: 3135.37}
+        up: {x: 0.088331185, y: 0.9924024, z: -0.08564543}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 151
+    - camera:
+        position: {x: 173.25063, y: 6.2948995, z: 583.26086}
+        lookAt: {x: -2359.523, y: 665.8387, z: 2974.5527}
+        up: {x: 0.13527426, y: 0.98254216, z: -0.12771778}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 152
+    - camera:
+        position: {x: 363.52917, y: 6.5532, z: 396.59186}
+        lookAt: {x: -2183.825, y: -257.0983, z: 2848.0588}
+        up: {x: -0.05358587, y: 0.99723077, z: 0.051568802}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 153
+    - camera:
+        position: {x: 363.52917, y: 6.5532, z: 396.59186}
+        lookAt: {x: -1397.4187, y: 1300.7654, z: 3188.0598}
+        up: {x: 0.1947766, y: 0.93098253, z: -0.30876136}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 154
+    - camera:
+        position: {x: 244.27246, y: 19.700308, z: 403.17584}
+        lookAt: {x: 1504.3552, y: 1142.0275, z: 3520.994}
+        up: {x: -0.11862531, y: 0.9485661, z: -0.29351416}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 155
+    - camera:
+        position: {x: 210.64944, y: 6.6237535, z: 436.52698}
+        lookAt: {x: 3285.043, y: 1508.1072, z: 1364.8959}
+        up: {x: -0.40544745, y: 0.9058823, z: -0.122432224}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 156
+    - camera:
+        position: {x: 212.91965, y: 9.279638, z: 469.79645}
+        lookAt: {x: 1973.0112, y: 411.38992, z: -2581.2036}
+        up: {x: -0.056678537, y: 0.9935466, z: 0.098248415}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 157
+    - camera:
+        position: {x: 294.43286, y: 8.651899, z: 528.34265}
+        lookAt: {x: -886.50653, y: 276.64514, z: -2803.5903}
+        up: {x: 0.025253538, y: 0.9971387, z: 0.07125099}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 158
+    - camera:
+        position: {x: 312.2909, y: 8.647937, z: 549.5195}
+        lookAt: {x: -562.6638, y: 550.99524, z: -2842.9028}
+        up: {x: 0.038206022, y: 0.988229, z: 0.14813448}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 159
+    - camera:
+        position: {x: 312.2909, y: 8.647937, z: 549.5195}
+        lookAt: {x: -501.254, y: 2102.8, z: -2192.9043}
+        up: {x: 0.16799775, y: 0.80688685, z: 0.56631297}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 160
+    - camera:
+        position: {x: 267.71613, y: 75.032265, z: 468.22205}
+        lookAt: {x: -486.21335, y: 2299.906, z: -2186.913}
+        up: {x: 0.17142512, y: 0.7785527, z: 0.6037128}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 161
+    - camera:
+        position: {x: 354.58453, y: 155.49332, z: 384.1205}
+        lookAt: {x: -3019.7844, y: 1240.4113, z: 314.81235}
+        up: {x: 0.30596274, y: 0.9520228, z: 0.0062843505}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 162
+    - camera:
+        position: {x: 414.72482, y: 206.45428, z: 390.47336}
+        lookAt: {x: -3114.9326, y: 446.59436, z: 618.6568}
+        up: {x: 0.06759618, y: 0.9977032, z: -0.004369922}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 163
+    - camera:
+        position: {x: 390.59744, y: 224.63004, z: 277.53854}
+        lookAt: {x: -2154.7358, y: 12.750032, z: 2736.1155}
+        up: {x: -0.042987093, y: 0.99821246, z: 0.0415219}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 164
+    - camera:
+        position: {x: 231.15698, y: 207.0052, z: 303.94128}
+        lookAt: {x: -1980.7975, y: 150.70506, z: 3073.8335}
+        up: {x: -0.009909846, y: 0.9998739, z: 0.012409481}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 165
+    - camera:
+        position: {x: -52.579315, y: 205.64113, z: 301.83252}
+        lookAt: {x: -297.68585, y: 141.24158, z: 3837.931}
+        up: {x: -0.0012561335, y: 0.999835, z: 0.018121963}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 166
+    - camera:
+        position: {x: -165.4476, y: 216.16406, z: 307.2202}
+        lookAt: {x: 2074.7576, y: -63.844765, z: 3040.5864}
+        up: {x: 0.050066214, y: 0.99687594, z: 0.061087847}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 167
+    - camera:
+        position: {x: -637.0707, y: 5.2464814, z: -201.19083}
+        lookAt: {x: 1066.528, y: 911.2865, z: 2772.8735}
+        up: {x: -0.12703069, y: 0.96679044, z: -0.22176436}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 168
+    - camera:
+        position: {x: -640.1521, y: 75.56157, z: -274.8064}
+        lookAt: {x: 457.6772, y: 346.12277, z: 1686.609}
+        up: {x: -0.058368795, y: 0.9928333, z: -0.10428347}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 169
+    - camera:
+        position: {x: -856.6114, y: 25.045687, z: -96.28945}
+        lookAt: {x: -788.3438, y: 40.90667, z: -31.384996}
+        up: {x: -0.12033741, y: 0.9861184, z: -0.11440913}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 170
+    - camera:
+        position: {x: -1036.8446, y: 3.62268, z: 194.77873}
+        lookAt: {x: 2185.318, y: 705.8601, z: 1495.8346}
+        up: {x: -0.18367481, y: 0.9801853, z: -0.07416484}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 171
+    - camera:
+        position: {x: -1067.9417, y: 1.7852447, z: 235.85289}
+        lookAt: {x: -964.9731, y: 25.023876, z: 264.4662}
+        up: {x: -0.20422035, y: 0.9773521, z: -0.055470552}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 172
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camellia City Center
+    100004: Camellia City Financial Center
+    100006: "Camellia City Pok\xE9mon Center"
+    100008: "Camellia City Pok\xE9mon Center#1"
+    100010: "Camellia City Pok\xE9mon Gym"
+    100012: Camellia City Promenade
+    100014: Camellia City World Center
+    100016: Camellia University Tower
+    100018: Camellia University Tower 1
+    100020: Component50
+    100022: Logo
+    100024: Logo 1
+    100026: Midtown Camellia City
+    100028: Oranova Route 4 Gate
+    100030: Oranova Route 5 Gate
+    100032: "Pok\xE9mon Gym Logo"
+    100034: University Place
+    100036: Uptown Camellia City
+    100038: Wharf Ground Base
+    400000: //RootNode
+    400002: Camellia City Center
+    400004: Camellia City Financial Center
+    400006: "Camellia City Pok\xE9mon Center"
+    400008: "Camellia City Pok\xE9mon Center#1"
+    400010: "Camellia City Pok\xE9mon Gym"
+    400012: Camellia City Promenade
+    400014: Camellia City World Center
+    400016: Camellia University Tower
+    400018: Camellia University Tower 1
+    400020: Component50
+    400022: Logo
+    400024: Logo 1
+    400026: Midtown Camellia City
+    400028: Oranova Route 4 Gate
+    400030: Oranova Route 5 Gate
+    400032: "Pok\xE9mon Gym Logo"
+    400034: University Place
+    400036: Uptown Camellia City
+    400038: Wharf Ground Base
+    2100000: _defaultMat
+    2100002: _23
+    2100004: _1
+    2100006: _55
+    2100008: _24
+    2100010: _275
+    2100012: _4
+    2100014: _Gray6_2
+    2100016: _279
+    2100018: _20
+    2100020: '[Stone_Pavers_Flagstone_Gray]2'
+    2100022: h3_
+    2100024: 13
+    2100026: e1_
+    2100028: h1_
+    2100030: h8_
+    2100032: 14#2
+    2100034: _60
+    2100036: c6_
+    2100038: _16
+    2100040: _6
+    2100042: 96,96,96
+    2100044: Image8
+    2100046: _92
+    2100048: 1201_GlassWall
+    2100050: _32
+    2100052: 19
+    2100054: a4-5_
+    2100056: _18
+    2100058: _17
+    2100060: _75
+    2100062: okna-3
+    2100064: h7_
+    2100066: g2_
+    2100068: g1_
+    2100070: 7760_13
+    2100072: anaheim 0037
+    2100074: _5
+    2100076: _3
+    2100078: _33
+    2100080: One Franklin Square-16
+    2100082: One Franklin Square-20
+    2100084: 4-Time-Square_6_03
+    2100086: 9
+    2100088: 7#1
+    2100090: '[Translucent_Glass_Safety]'
+    2100092: 2
+    2100094: 99
+    2100096: _26
+    2100098: 4 Time Square_11
+    2100100: Cowboy_aStadium_0032
+    2100102: _21
+    2100104: One Franklin Square-21
+    2100106: okna-4
+    2100108: okna1
+    2100110: One Franklin Square-37
+    2100112: _8
+    2100114: One Franklin Square-01
+    2100116: One Franklin Square-19
+    2100118: One Franklin Square-02
+    2100120: One Franklin Square-03
+    2100122: One Franklin Square-46
+    2100124: One Franklin Square-47
+    2100126: Building Color
+    2100128: Arch Color
+    2100130: Walls
+    2100132: Upper Floor Windows
+    2100134: Entrance
+    2100136: Lower Floor Windows
+    2100138: Logo Color 1
+    2100140: Logo Color 2
+    2100142: W2
+    2100144: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B4"
+    2100146: _81
+    2100148: 12e81_d926#5
+    2100150: 17
+    2100152: 101
+    2100154: _9
+    2100156: 18
+    2100158: Translucent_Glass_Block_Light
+    2100160: Windows balc left 5_16_3
+    2100162: _278
+    2100164: _80
+    2100166: Balcon10
+    2100168: 1201_1WindowRow_002
+    2100170: 7760_1_
+    2100172: _36
+    2100174: h9_
+    2100176: 1201_6WindowRow_001
+    2100178: 109
+    2100180: 21
+    2100182: 14#1
+    2100184: 12
+    2100186: "\u041E\u043A\u043D3"
+    2100188: 1255_StepsWindow_002
+    2100190: _31
+    2100192: _44
+    2100194: _28
+    2100196: _49
+    2100198: _37
+    2100200: _38
+    2100202: _11
+    2100204: _119
+    2100206: _35
+    2100208: blueTexture
+    2100210: _82
+    2100212: '[Metal_Aluminum_Anodized]2'
+    2100214: _19
+    2100216: _14
+    2100218: _2
+    2100220: _46
+    2100222: _47
+    2100224: _45
+    2100226: _113
+    2100228: _12
+    2100230: _29
+    2100232: _13
+    2100234: _7
+    2100236: 3
+    2100238: Untitled-2 copy1
+    2100240: 900
+    2100242: _22
+    2100244: 35
+    2100246: 9#7
+    2100248: g3_
+    2100250: _15
+    2100252: _25
+    2100254: _27
+    2100256: 58
+    2100258: 17(3)#5
+    2100260: Image2
+    2100262: 38
+    2100264: _30
+    2100266: _34
+    2100268: _39
+    2100270: _40
+    2100272: _41
+    2100274: Material734
+    2100276: MaterialAqua
+    2300000: Camellia City Center
+    2300002: Camellia City Financial Center
+    2300004: "Camellia City Pok\xE9mon Center"
+    2300006: "Camellia City Pok\xE9mon Center#1"
+    2300008: "Camellia City Pok\xE9mon Gym"
+    2300010: Camellia City Promenade
+    2300012: Camellia City World Center
+    2300014: Camellia University Tower
+    2300016: Camellia University Tower 1
+    2300018: Component50
+    2300020: Logo
+    2300022: Logo 1
+    2300024: Midtown Camellia City
+    2300026: Oranova Route 4 Gate
+    2300028: Oranova Route 5 Gate
+    2300030: University Place
+    2300032: Uptown Camellia City
+    2300034: Wharf Ground Base
+    3300000: Camellia City Center
+    3300002: Camellia City Financial Center
+    3300004: "Camellia City Pok\xE9mon Center"
+    3300006: "Camellia City Pok\xE9mon Center#1"
+    3300008: "Camellia City Pok\xE9mon Gym"
+    3300010: Camellia City Promenade
+    3300012: Camellia City World Center
+    3300014: Camellia University Tower
+    3300016: Camellia University Tower 1
+    3300018: Component50
+    3300020: Logo
+    3300022: Logo 1
+    3300024: Midtown Camellia City
+    3300026: Oranova Route 4 Gate
+    3300028: Oranova Route 5 Gate
+    3300030: University Place
+    3300032: Uptown Camellia City
+    3300034: Wharf Ground Base
+    4300000: Mesh Wharf Ground Base
+    4300002: Mesh Camellia City Promenade
+    4300004: Mesh Oranova Route 5 Gate
+    4300006: Mesh Camellia City World Center
+    4300008: Mesh Oranova Route 4 Gate
+    4300010: Mesh University Place
+    4300012: Mesh Camellia University Tower
+    4300014: "Mesh Camellia City Pok\xE9mon Center#1"
+    4300016: Mesh Logo
+    4300018: Mesh Uptown Camellia City
+    4300020: "Mesh Camellia City Pok\xE9mon Gym"
+    4300022: Mesh Component50
+    4300024: Mesh Camellia City Financial Center
+    4300026: "Mesh Camellia City Pok\xE9mon Center"
+    4300028: Mesh Camellia City Center
+    4300030: Mesh Midtown Camellia City
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
