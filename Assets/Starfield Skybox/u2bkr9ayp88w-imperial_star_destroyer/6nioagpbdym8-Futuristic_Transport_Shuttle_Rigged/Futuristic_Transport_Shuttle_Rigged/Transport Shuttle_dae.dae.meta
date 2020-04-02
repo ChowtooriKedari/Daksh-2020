@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: cf6f85ed6586fdf4a89eaa18107b2ed9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: All_Legs_Bone
+    100002: Armature
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.005
+    100016: Bone.006
+    100018: Bone.007
+    100020: Bone.008
+    100022: Bone_Door_Down_L
+    100024: Bone_Door_Down_R
+    100026: Bone_Door_UP_L
+    100028: Bone_Door_UP_R
+    100030: Bone_for_Legss
+    100032: Bone_L
+    100034: Bone_R
+    100036: Door_Bone_Open
+    100038: Hemi
+    100040: Open_Door_L
+    100042: Open_Door_R
+    100044: Shuttle_000
+    100046: Shuttle_002
+    100048: Shuttle_008
+    100050: Shuttle_009
+    100052: Shuttle_010
+    100054: Shuttle_011
+    100056: Shuttle_012
+    100058: Shuttle_013
+    100060: Shuttle_014
+    100062: Shuttle_015
+    100064: Shuttle_024
+    100066: Shuttle_All_Mover
+    100068: //RootNode
+    400000: All_Legs_Bone
+    400002: Armature
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.005
+    400016: Bone.006
+    400018: Bone.007
+    400020: Bone.008
+    400022: Bone_Door_Down_L
+    400024: Bone_Door_Down_R
+    400026: Bone_Door_UP_L
+    400028: Bone_Door_UP_R
+    400030: Bone_for_Legss
+    400032: Bone_L
+    400034: Bone_R
+    400036: Door_Bone_Open
+    400038: Hemi
+    400040: Open_Door_L
+    400042: Open_Door_R
+    400044: Shuttle_000
+    400046: Shuttle_002
+    400048: Shuttle_008
+    400050: Shuttle_009
+    400052: Shuttle_010
+    400054: Shuttle_011
+    400056: Shuttle_012
+    400058: Shuttle_013
+    400060: Shuttle_014
+    400062: Shuttle_015
+    400064: Shuttle_024
+    400066: Shuttle_All_Mover
+    400068: //RootNode
+    2100000: Buster_001
+    2100002: Glass_001
+    2100004: Material_023
+    2100006: Material_026
+    2100008: Shuttel_Legs_001
+    2100010: Shuttle_Rest_002
+    2100012: Material_042
+    2100014: Material_020
+    2100016: Shuttel_Inside_002
+    2100018: Material_013
+    2100020: Hover_1_003
+    2100022: No Name
+    2300000: All_Legs_Bone
+    2300002: Bone_for_Legss
+    2300004: Door_Bone_Open
+    2300006: Shuttle_All_Mover
+    3300000: All_Legs_Bone
+    3300002: Bone_for_Legss
+    3300004: Door_Bone_Open
+    3300006: Shuttle_All_Mover
+    4300000: Shuttle_024
+    4300002: Shuttle_000
+    4300004: Shuttle_002
+    4300006: Shuttle_008
+    4300008: Shuttle_009
+    4300010: Shuttle_010
+    4300012: Shuttle_011
+    4300014: Shuttle_012
+    4300016: Shuttle_013
+    4300018: Shuttle_014
+    4300020: Shuttle_015
+    4300022: Door_Bone_Open
+    4300024: Shuttle_All_Mover
+    4300026: Bone_for_Legss
+    4300028: All_Legs_Bone
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Shuttle_000
+    13700002: Shuttle_002
+    13700004: Shuttle_008
+    13700006: Shuttle_009
+    13700008: Shuttle_010
+    13700010: Shuttle_011
+    13700012: Shuttle_012
+    13700014: Shuttle_013
+    13700016: Shuttle_014
+    13700018: Shuttle_015
+    13700020: Shuttle_024
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
